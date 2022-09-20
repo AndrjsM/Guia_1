@@ -1,0 +1,54 @@
+1990 primer web
+www - next step
+
+30 de abril de 1993 gratis web
+
+1992 mosaic mutiplataforma - Creador: marc andreessen eric j. bina
+
+1993 NFCA - James 
+Nestcape = Java sript 
+NCSA Mosaic
+08/1995 - Internet Explorer W95
+11/1995 IE2
+08/1996 IE3
+
+1998 Nestcape libero su codigo fuente
+2004 Firefox
+2008 google chrome
+
+2012 google chrome supero a IE
+
+Evolución de paginas web 
+Imagene, tablas o marcos
+
+5 años primero, solo funcionaba para leer 
+
+Aplicaciones web = 
+
+Ubicuidad = trabajar desde cualquier sitio = computación en la nube
+
+Hipertexto = Paul Otlet / Mundaneut
+Vannevar Bush
+
+TED Nelzon acuño el termino de hipertexto y la hipermedioa
+
+Hipermedia: Multimedia, utiliza imagenes, sonidos y texto (2 o mas medios de comunicación)
+
+Team Berner Lead invento la web (HTTP, HTMLL
+
+URL: Unifor, Resource Loator
+
+Esquema/Servicio (|
+Esquema-maquina-directorio-archivo
+
+Nombres de dominio_
+
+DOCUMENTO-RUTA AL DOCUMENTO nombre de dominio (sub dominio) y el esquema
+
+Nombre de dominio: unico (ascii)
+Ip: Identifica un dispotivo de red 
+IPv4: binario de 32bits
+Ipv6: Binario de 128bits
+
+DNS 
+
