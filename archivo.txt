@@ -1,0 +1,2 @@
+Prueba de creación de archivo de texto.
+Para crear un archivo solo puede ser de c+odigo o de texto.
